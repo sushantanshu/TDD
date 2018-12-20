@@ -12,17 +12,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/GradeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/Grade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="195">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -30,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/EvenNumTestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="226">
+              <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="50" />
               <folding>
                 <element signature="e#400#401#0" expanded="true" />
                 <element signature="e#457#458#0" expanded="true" />
@@ -41,22 +34,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/MemberVariableTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/GradeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="89">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/PowerOfFourTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/EvenNumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="120">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -85,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/EvenNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/Check.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/GradeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/Grade.java" />
       </list>
     </option>
   </component>
@@ -156,7 +156,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545303805088" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545305639017" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
@@ -184,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Check">
+  <component name="RunManager" selected="JUnit.GradeTest.checkMin">
     <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.Check" />
       <module name="PE-2" />
@@ -212,6 +212,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GradeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.GradeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeTest.checkMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.GradeTest" />
+      <option name="METHOD_NAME" value="checkMin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MemberVariableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE-2" />
       <extension name="coverage">
@@ -226,43 +256,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfFourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.unittest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.unittest" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.PowerOfFourTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PowerOfFourTest.checkPowerOfForThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.unittest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.unittest" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.PowerOfFourTest" />
-      <option name="METHOD_NAME" value="checkPowerOfForThree" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GradeTest.checkMin" />
+        <item itemvalue="JUnit.GradeTest" />
         <item itemvalue="Application.Check" />
         <item itemvalue="JUnit.EvenNumTestTest" />
         <item itemvalue="JUnit.MemberVariableTest" />
-        <item itemvalue="JUnit.PowerOfFourTest" />
-        <item itemvalue="JUnit.PowerOfFourTest.checkPowerOfForThree" />
       </list>
     </recent_temporary>
   </component>
@@ -280,15 +280,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PowerOfFourTest - 2018.12.20 at 14h 13m 29s.xml">
-      <configuration name="PowerOfFourTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MemberVariableTest - 2018.12.20 at 14h 37m 21s.xml">
-      <configuration name="MemberVariableTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MemberVariableTest - 2018.12.20 at 14h 39m 45s.xml">
-      <configuration name="MemberVariableTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MemberVariableTest - 2018.12.20 at 14h 40m 31s.xml">
       <configuration name="MemberVariableTest" configurationId="JUnit" />
     </history-entry>
@@ -309,6 +300,15 @@
     </history-entry>
     <history-entry file="EvenNumTestTest - 2018.12.20 at 15h 16m 22s.xml">
       <configuration name="EvenNumTestTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradeTest - 2018.12.20 at 17h 02m 30s.xml">
+      <configuration name="GradeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradeTest - 2018.12.20 at 17h 02m 51s.xml">
+      <configuration name="GradeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradeTest - 2018.12.20 at 17h 03m 13s.xml">
+      <configuration name="GradeTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -396,28 +396,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/EvenNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/Check.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="69" lean-forward="true" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/EvenNumTestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -438,17 +420,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/EvenNumTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/EvenNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/GradeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="89">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/Grade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>
