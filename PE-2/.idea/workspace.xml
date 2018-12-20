@@ -12,19 +12,42 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/ReversePalindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/Member.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="252">
+              <caret line="32" column="18" selection-end-line="40" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/ReversePalindromeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/MemberVariable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/MemberVariableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,8 +68,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/ReversePalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/ReversePalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/ReversePalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/PowerOfFour.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/PowerOfFourTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/MemberVariableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/MemberVariable.java" />
       </list>
     </option>
   </component>
@@ -87,6 +115,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PE-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittest" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -95,7 +131,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545288387255" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545298177685" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
@@ -123,7 +159,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReversePalindromeTest">
+  <component name="RunManager" selected="JUnit.MemberVariableTest">
+    <configuration name="MemberVariableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.MemberVariableTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerOfFourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.PowerOfFourTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerOfFourTest.checkPowerOfForThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.PowerOfFourTest" />
+      <option name="METHOD_NAME" value="checkPowerOfForThree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerOfFourTest.checkPowerOfForTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.PowerOfFourTest" />
+      <option name="METHOD_NAME" value="checkPowerOfForTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReversePalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE-2" />
       <extension name="coverage">
@@ -138,26 +234,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePalindromeTest.isPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.unittest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.unittest" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.ReversePalindromeTest" />
-      <option name="METHOD_NAME" value="isPalindrome" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MemberVariableTest" />
+        <item itemvalue="JUnit.PowerOfFourTest" />
+        <item itemvalue="JUnit.PowerOfFourTest.checkPowerOfForThree" />
+        <item itemvalue="JUnit.PowerOfFourTest.checkPowerOfForTwo" />
         <item itemvalue="JUnit.ReversePalindromeTest" />
-        <item itemvalue="JUnit.ReversePalindromeTest.isPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -175,20 +258,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReversePalindromeTest_isPalindrome - 2018.12.20 at 11h 33m 02s.xml">
-      <configuration name="ReversePalindromeTest.isPalindrome" configurationId="JUnit" />
+    <history-entry file="PowerOfFourTest_checkPowerOfForTwo - 2018.12.20 at 14h 11m 08s.xml">
+      <configuration name="PowerOfFourTest.checkPowerOfForTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReversePalindromeTest - 2018.12.20 at 12h 13m 42s.xml">
-      <configuration name="ReversePalindromeTest" configurationId="JUnit" />
+    <history-entry file="PowerOfFourTest_checkPowerOfForThree - 2018.12.20 at 14h 11m 56s.xml">
+      <configuration name="PowerOfFourTest.checkPowerOfForThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReversePalindromeTest - 2018.12.20 at 12h 14m 29s.xml">
-      <configuration name="ReversePalindromeTest" configurationId="JUnit" />
+    <history-entry file="PowerOfFourTest - 2018.12.20 at 14h 13m 09s.xml">
+      <configuration name="PowerOfFourTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReversePalindromeTest - 2018.12.20 at 12h 15m 25s.xml">
-      <configuration name="ReversePalindromeTest" configurationId="JUnit" />
+    <history-entry file="PowerOfFourTest - 2018.12.20 at 14h 13m 29s.xml">
+      <configuration name="PowerOfFourTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReversePalindromeTest - 2018.12.20 at 12h 15m 43s.xml">
-      <configuration name="ReversePalindromeTest" configurationId="JUnit" />
+    <history-entry file="MemberVariableTest - 2018.12.20 at 14h 37m 21s.xml">
+      <configuration name="MemberVariableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberVariableTest - 2018.12.20 at 14h 39m 45s.xml">
+      <configuration name="MemberVariableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberVariableTest - 2018.12.20 at 14h 40m 31s.xml">
+      <configuration name="MemberVariableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberVariableTest - 2018.12.20 at 14h 40m 42s.xml">
+      <configuration name="MemberVariableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberVariableTest - 2018.12.20 at 14h 45m 23s.xml">
+      <configuration name="MemberVariableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberVariableTest - 2018.12.20 at 14h 50m 11s.xml">
+      <configuration name="MemberVariableTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -208,7 +306,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32954547" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18344156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,7 +325,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/ReversePalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -238,6 +336,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/PowerOfFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/PowerOfFourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/MemberVariableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/MemberVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="32" column="18" selection-end-line="40" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

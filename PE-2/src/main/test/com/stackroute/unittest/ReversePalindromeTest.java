@@ -11,5 +11,10 @@ public class ReversePalindromeTest {
         ReversePalindrome revPalinObj=new ReversePalindrome();
         assertEquals("It is a Palindrome",revPalinObj.isPalindrome("123321"));
     }
+    @Test
+    public void isPalindromeNot() {
+        ReversePalindrome revPalinObj=new ReversePalindrome();
+        assertEquals("It is not a Palindrome",revPalinObj.isPalindrome("12356321"));
+    }
 
 }
