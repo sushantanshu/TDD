@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eebf7d33-a8b6-4afa-8578-77f80a24bd11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/PE-2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/PE-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/production/PE-2/com/stackroute/unittest/Check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/production/PE-2/com/stackroute/unittest/EvenNumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/production/PE-2/com/stackroute/unittest/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/production/PE-2/com/stackroute/unittest/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/production/PE-2/com/stackroute/unittest/MemberVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/production/PE-2/com/stackroute/unittest/PowerOfFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/production/PE-2/com/stackroute/unittest/ReversePalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/test/PE-2/com/stackroute/unittest/EvenNumTestTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/test/PE-2/com/stackroute/unittest/GradeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/test/PE-2/com/stackroute/unittest/MemberVariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/test/PE-2/com/stackroute/unittest/PowerOfFourTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/out/test/PE-2/com/stackroute/unittest/ReversePalindromeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/java/com/stackroute/unittest/Check.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/java/com/stackroute/unittest/EvenNumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/java/com/stackroute/unittest/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/java/com/stackroute/unittest/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/java/com/stackroute/unittest/MemberVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/java/com/stackroute/unittest/PowerOfFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/java/com/stackroute/unittest/ReversePalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/test/com/stackroute/unittest/EvenNumTestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/test/com/stackroute/unittest/GradeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/test/com/stackroute/unittest/MemberVariableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/test/com/stackroute/unittest/PowerOfFourTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE-2/src/main/test/com/stackroute/unittest/ReversePalindromeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/.idea/PE1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/PrimeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/AddNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/Guess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/Iteration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/Letters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/PrintString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/Repeat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/SortAndAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/production/Java/com/training/slackroute/VowelConsonant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/PrimeNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/AddNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/GuessTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/IterationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/LettersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/PalindromeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/PrintStringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/RepeatTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/ReverseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/SortAndAddTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/out/test/Java/com/training/slackroute/VowelConsonantTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/PrimeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/AddNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/Guess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/Iteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/Letters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/PrintString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/Repeat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/SortAndAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/src/com/training/slackroute/VowelConsonant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/PrimeNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/AddNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/GuessTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/IterationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/LettersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/PalindromeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/PrintStringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/RepeatTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/ReverseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/SortAndAddTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE1/test/com/training/slackroute/VowelConsonantTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/java/com/stackroute/unittest/pe2/ExerciseFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/java/com/stackroute/unittest/pe2/ExerciseOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/java/com/stackroute/unittest/pe2/ExerciseSix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/java/com/stackroute/unittest/pe2/ExerciseTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/java/com/stackroute/unittest/pe2/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/test/com/stackroute/unittest/pe2/ExerciseFiveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/test/com/stackroute/unittest/pe2/ExerciseOneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/test/com/stackroute/unittest/pe2/ExerciseSixTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/test/com/stackroute/unittest/pe2/ExerciseTwoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD/PracticeExercise/src/main/test/com/stackroute/unittest/pe2/MemberTest.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TDD/PracticeExercise/src/main/java/com/stackroute/unittest/Check.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TDD/PracticeExercise/src/main/test/com/stackroute/unittest/EvenNumTestTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="174" />
+    <option name="width" value="1112" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeExercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unittest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="unittest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545357392166" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eebf7d33-a8b6-4afa-8578-77f80a24bd11" name="Default Changelist" comment="" />
+      <created>1545356805168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545356805168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TDD/PracticeExercise/src/main/java/com/stackroute/unittest/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TDD/PracticeExercise/src/main/java/com/stackroute/unittest/EvenNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TDD/PracticeExercise/src/main/test/com/stackroute/unittest/MemberVariableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TDD/PracticeExercise/src/main/test/com/stackroute/unittest/GradeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TDD/PracticeExercise/src/main/test/com/stackroute/unittest/EvenNumTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaAssignments</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
